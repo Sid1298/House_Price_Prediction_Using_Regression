@@ -1,0 +1,90 @@
+------------------------Linear Regression------------------------
+Training set score: 0.8802158220995266
+    _____________________________________
+
+    Mean Absolute Error: 16748.062136757013
+
+    Mean Squared Error: 755453485.8881549
+
+    Root Mean Squared Error: 27485.51410994808
+
+    R2 squared:0.8802158220995266
+
+    _____________________________________
+
+
+------------------------Bagging Regression------------------------
+Training set score: 0.9691974543812922
+    _____________________________________
+
+    Mean Absolute Error: 7900.55904109589
+
+    Mean Squared Error: 194265143.1077671
+
+    Root Mean Squared Error: 13937.90311014419
+
+    R2 squared:0.9691974543812922
+
+    _____________________________________
+
+
+------------------------Decision Tree Regression------------------------
+Training set score: 1.0
+    _____________________________________
+
+    Mean Absolute Error: 0.0
+
+    Mean Squared Error: 0.0
+
+    Root Mean Squared Error: 0.0
+
+    R2 squared:1.0
+
+    _____________________________________
+
+
+------------------------ADA Boost Regression------------------------
+Training set score: 0.8677948570709998
+    _____________________________________
+
+    Mean Absolute Error: 22578.159298891955
+
+    Mean Squared Error: 833789886.3490912
+
+    Root Mean Squared Error: 28875.42010688487
+
+    R2 squared:0.8677948570709998
+
+    _____________________________________
+
+
+------------------------Random Forest Regression------------------------
+Training set score: 0.9800963419994415
+    _____________________________________
+
+    Mean Absolute Error: 6549.0143013698635
+
+    Mean Squared Error: 125528163.08461836
+
+    Root Mean Squared Error: 11203.935160675393
+
+    R2 squared:0.9800963419994415
+
+    _____________________________________
+
+
+------------------------Gradient Boosting Regression------------------------
+Training set score: 0.9649299672365969
+    _____________________________________
+
+    Mean Absolute Error: 10783.286091347205
+
+    Mean Squared Error: 221179282.32005677
+
+    Root Mean Squared Error: 14872.097441855898
+
+    R2 squared:0.9649299672365969
+
+    _____________________________________
+
+
